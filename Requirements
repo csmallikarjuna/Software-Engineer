@@ -1,0 +1,15 @@
+Requirements:
+
+-> numpy - v1.20.3
+
+-> pandas - v1.3.4
+
+-> os - OS comes under Python's standard utility modules
+
+-> seaborn - v0.11.2
+
+-> matplotlib - v3.4.3
+
+-> plotly - v4.14.3
+
+-> sklearn - v0.0
