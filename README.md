@@ -34,18 +34,18 @@ SVM, XGBoost, KNeighbours, Decision Tree, AdaBoost, Logistic Regression,	Random 
 
 Models Accuracy:
 
-Accuracy_rank, Model,	Accuracy_score
+Model,	Accuracy_score
 
-0,	Logistic Regression,	0.628466
+Logistic Regression,	0.628466
 
-1, Decision Tree,	0.645102
+Decision Tree,	0.645102
 
-2,	Random Forest,	0.628466
+Random Forest,	0.628466
 
-3,	XGBoost,	0.670980
+XGBoost,	0.670980
 
-4,	KNeighbours,	0.653420
+KNeighbours,	0.653420
 
-5,	SVM,	0.688540
+SVM,	0.688540
 
-6, AdaBoost,	0.634011
+AdaBoost,	0.634011
