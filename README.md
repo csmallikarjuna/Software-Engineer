@@ -30,6 +30,7 @@ One useful and often used way of determining the concentration of a chemical in 
 
 
 Models Used:
+
 SVM, XGBoost, KNeighbours, Decision Tree, AdaBoost, Logistic Regression,	Random Forest	
 
 Models Accuracy:
